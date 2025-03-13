@@ -1,4 +1,4 @@
-### Olá, eu sou o [Seu Nome]! 👋🚀
+### Olá, eu sou o [Pedro Machado]! 👋🚀
 
 Bem-vindo ao meu perfil do GitHub! 💻✨
 
